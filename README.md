@@ -2,6 +2,9 @@
 
 **Cat Adventure** é um jogo estilo RPG desenvolvido em Python, com foco em proporcionar uma experiência interativa e personalizável para o jogador. O jogo conta com sistema de login, batalhas, interface com botões, controle de volume, suporte a múltiplos idiomas e persistência de dados via banco de dados.
 
+⚠️ **Este projeto ainda está em desenvolvimento.** A ideia original contempla três fases distintas, sendo que a **fase 3 incluiria uma batalha final**, completando a jornada do personagem. No momento, algumas dessas funcionalidades estão em progresso.
+
+
 ## 🎮 Sobre o Projeto
 
 Este projeto foi criado como um jogo desktop com os seguintes recursos:
