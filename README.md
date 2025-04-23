@@ -13,6 +13,20 @@ Este projeto foi criado como um jogo desktop com os seguintes recursos:
 - Controle de volume
 - Integração com banco de dados para salvar progresso
 
+## 🖼️ Prints do jogo
+
+> As capturas de tela abaixo demonstram as principais telas do jogo:
+
+<img src="login.png" width="500"/>
+<img src="criar_conta.png" width="500"/>
+<img src="menu.png" width="500"/>
+<img src="opcoe_menu.png" width="500"/>
+<img src="escolher_gato.png" width="500"/>
+<img src="aviso_gato.png" width="500"/>
+<img src="escolher_mapa.png" width="500"/>
+<img src="batalha.png" width="500"/>
+
+
 ## 🛠 Tecnologias Utilizadas
 
 - Python (puro)
