@@ -1,0 +1,22 @@
+
+cor = {
+    "name_input": {
+        "font": "assets/font.ttf",
+        "font_size": 20,
+        "colors": {
+            "normal_bg": (50, 0, 75),  # Roxo escuro
+            "hovered_bg": (100, 50, 150),  # Roxo médio
+            "active_bg": (150, 50, 200),  # Roxo claro
+            "text": (255, 255, 255),  # Texto branco
+            "border": (200, 100, 255),  # Borda roxa clara
+            "focused_border": (255, 255, 255)  # Borda branca no foco
+        },
+        "shape": "rectangle",
+        "border_width": 2,
+        "shadow_width": 1
+    }
+}
+
+# Aplica o tema ao UIManager
+manager = pygame_gui.UIManager(SCREEN.get_size())
+manager.ui_theme.load_theme_from_data(theme)
