@@ -33,8 +33,8 @@ Este projeto foi criado como um jogo desktop com os seguintes recursos:
 ## 🛠 Tecnologias Utilizadas
 
 - Python (puro)
-- Bibliotecas gráficas (como `tkinter` ou similares)
-- SQLite (ou outra solução de banco de dados leve, caso utilizada)
+- Bibliotecas gráficas (como `pygame`)
+- SQLite 
 
 ## 🖥️ Executando o Projeto
 
